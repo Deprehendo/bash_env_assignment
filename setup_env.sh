@@ -3,7 +3,7 @@
 # Load Miniconda
 module load miniconda3/24.1.2-py310
 
-# Create Conda envrionement
+# Create Conda environment
 conda env create -f environment.yml
 
 # Activate the environment

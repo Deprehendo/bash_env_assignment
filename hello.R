@@ -1,2 +1,2 @@
 #!/usr/bin/env Rscript
-cat("Hello, World!\n")R
+cat("Hello, World!\n")
