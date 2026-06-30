@@ -1,0 +1,2 @@
+# Optional pip packages (install after conda env is active)
+# ipywidgets==8.1.5
